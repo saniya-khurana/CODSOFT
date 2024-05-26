@@ -10,7 +10,7 @@ int main(){
     cout<<"Enter Operand"<<endl;
     cin>>op;
 
-    switch (op)
+    switch (op) 
     {
         case '+':
             cout<<n1+n2<<endl;
